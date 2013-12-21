@@ -17,7 +17,7 @@ describe 'test.vim'
       Expect Call('HelloWorld') == 'Hello Guest'
   end
 
-  it 'should greet Guest'
-      Expect Call('HelloWorld', 'World') == 'Hello World'
+  it 'should greet User'
+      Expect Call('HelloWorld', 'User') == 'Hello User'
   end
 end

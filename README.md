@@ -6,6 +6,12 @@
 This project is an skeleton for a typical vim plugin.
 You can use it to quickly bootstrap your vim plugin and dev environment.
 
+## Install
+
+```(bash)
+    git clone https://github.com/maksimr/vim-stub vim-myAwesomePlugin
+```
+
 ## Tests
 For testing vim files we use [vim-vspec](https://github.com/kana/vim-vspec)
 
