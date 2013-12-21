@@ -3,7 +3,7 @@
 ![](http://tritarget.org/devin/icons/vim_by_liggliluff-d5g1led.png)
 
 ## Description
-This project is an application skeleton for a typical vim plugin.
+This project is an skeleton for a typical vim plugin.
 You can use it to quickly bootstrap your vim plugin and dev environment.
 
 ## Tests
